@@ -1,2 +1,6 @@
-# pdf-to-img-converter
-This project is a simple and user-friendly tool to convert multiple images into a single PDF file. The application is built using Python
+you need to import following library first 
+
+import tkinter as tk
+from tkinter import filedialog, messagebox
+from PIL import Image
+import os
